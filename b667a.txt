@@ -1,3 +1,5 @@
 This is an EVent processing.
 
 B667A is main code in EP.
+
+After billing procecss will come into picture.
