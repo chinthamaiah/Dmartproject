@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 kjbfkjbf
 hjdbdfhbf
 klhhdbfiuf
+=======
+
+>>>>>>> 943ce217357872e946b6945464f469f0b80af214
